@@ -1,0 +1,15 @@
+# Exclude all environment files
+**/.env
+**/.env.*
+
+# Exclude virtual environments
+**/.venv/
+**/venv/
+
+# Exclude Python cache
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Exclude test cache
+.pytest_cache/
