@@ -1,7 +1,0 @@
-pytest 
-
-google-genai 
-
-python-dotenv 
-
-pymongo 
